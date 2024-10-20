@@ -72,14 +72,6 @@ export const TitleAndDropdown = () => {
 
   return (
     <div className="landing-page-gradient-1 relative flex h-max w-screen flex-col items-center font-lora ">
-      <div className="absolute right-4 top-4">
-        <a href="https://www.llamaindex.ai/" target="_blank">
-          <button className="flex items-center justify-center font-nunito text-lg font-bold ">
-            Built by LlamaIndex
-            <img src="logo-black.svg" className="mx-2 rounded-lg" width={40} />
-          </button>
-        </a>
-      </div>
       <div className="mt-28 flex flex-col items-center">
         <div className="w-4/5 text-center text-4xl">
           Empower your organization&apos;s Business Intelligence with{" "}
