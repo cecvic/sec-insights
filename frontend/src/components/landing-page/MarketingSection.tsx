@@ -152,7 +152,7 @@ export const MarketingSection = () => {
                 provide feedback
               </div>
               <div className="flex items-center justify-around">
-                <a href="mailto:hi@secinsights.ai" target="_blank">
+                <a href="mailto:support@trendhubs.io" target="_blank">
                   <button className="m-4 rounded border bg-llama-indigo px-8 py-2 font-bold text-white hover:bg-[#3B3775]">
                     Get in Touch
                   </button>
@@ -170,7 +170,7 @@ export const MarketingSection = () => {
             >
               Back to Top
             </button>
-            <div>©LlamaIndex Inc. 2023. All rights reserved.</div>
+            <div>©Trendhubs. 2024. All rights reserved.</div>
           </div>
         </div>
       </div>
